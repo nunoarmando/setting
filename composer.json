@@ -1,7 +1,7 @@
 {
-	"name": "nunoarmando/setting",
-	"description": "nunoarmando/setting",
-	"homepage": "https://github.com/nunoarmando/setting",
+	"name": "naas/setting",
+	"description": "naas/setting",
+	"homepage": "https://github.com/naas/setting",
 	"type": "composer",
 	"license": "MIT",
 	"keywords": ["test repository"],
